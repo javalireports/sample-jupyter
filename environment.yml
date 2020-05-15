@@ -1,4 +1,8 @@
+# JavaliReports
 name: example-environment
+
+channels:
+  - conda-forge
 
 dependencies:
   - numpy
