@@ -1,6 +1,5 @@
 name: example-environment
-channels:
-  - javalireports-forge
+
 dependencies:
   - numpy
   - psutil
